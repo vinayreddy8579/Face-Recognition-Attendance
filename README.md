@@ -1,4 +1,4 @@
-# Face-Detection-and-Recognition
+# Face Recognition Attendance
 It is used to detect a person and recognize the person by their name.
 
 # Required Modules
